@@ -1,24 +1,24 @@
 # Total-elsctricity-consumption-forecasting
 Total electricity consumption forecasting based on Transformer  time series models
 
-#Requirements  
+## Requirements  
 Dependencies can be installed using the following command:  
 pip install -r requirements.txt
 
-#Data  
+## Data  
 The monthly dataset used in the paper were collected from Wind database.
 TEC(Total electricity consumption) from January 2009 to December 2020.
 
-#Methods  
+## Methods  
 Three general Machine learning methods were used to serve as baseline models, including MLP, SVR, and XGboost.  
 Three variant models of the Transformer class are considered:Transformer, Informer, and Autoformer.  
 Time2Vec also was used to our model to embedding time feature.  
 
-#Result  
+## Result  
 By comparing with the existing Transformer models and other intelligent algorithm models, the robustness and superiority of the proposed method framework are verified, and the highest accuracy reaches 97.36%. The method presented in this paper provides valuable insights in the field of time series prediction。
 
 
-#Citation
+## Citation
 If you find this repository useful in your research, please consider citing the following paper and patent:  
 
 Paper:  
