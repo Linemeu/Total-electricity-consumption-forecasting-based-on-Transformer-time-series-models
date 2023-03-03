@@ -27,11 +27,11 @@ Total electricity consumption forecasting based on Transformer time series model
 Procedia Computer Science,
 Volume 214,
 2022,
-Pages 312-320,
-ISSN 1877-0509,
-https://doi.org/10.1016/j.procs.2022.11.180.
-(https://www.sciencedirect.com/science/article/pii/S1877050922018907)
-Abstract: The total electricity consumption (TEC) reflects the operation condition of the national economy, and the prediction of the total electricity consumption can help track the economic development trend, as well as provide insights for macro policy making. Nowadays, novel neural networks provide a new perspective to predict the total electricity consumption. In this paper, a time series forecasting method based on Transformer model, Trans-T2V model, is proposed and applied to TEC forecasting. Transformer is the first network structure that completely relies on self-attention to calculate input and output. In this paper, the Time2vec method is used to improve the existing Transformer model, as embedding the month sequence more efficiently in the Transformer model. By comparing with the existing Transformer models and other intelligent algorithm models, the robustness and superiority of the proposed method framework are verified, and the highest accuracy reaches 97.36%. The method presented in this paper provides valuable insights in the field of time series prediction.
+Pages 312-320,  
+ISSN 1877-0509,  
+https://doi.org/10.1016/j.procs.2022.11.180.  
+(https://www.sciencedirect.com/science/article/pii/S1877050922018907)  
+Abstract: The total electricity consumption (TEC) reflects the operation condition of the national economy, and the prediction of the total electricity consumption can help track the economic development trend, as well as provide insights for macro policy making. Nowadays, novel neural networks provide a new perspective to predict the total electricity consumption. In this paper, a time series forecasting method based on Transformer model, Trans-T2V model, is proposed and applied to TEC forecasting. Transformer is the first network structure that completely relies on self-attention to calculate input and output. In this paper, the Time2vec method is used to improve the existing Transformer model, as embedding the month sequence more efficiently in the Transformer model. By comparing with the existing Transformer models and other intelligent algorithm models, the robustness and superiority of the proposed method framework are verified, and the highest accuracy reaches 97.36%. The method presented in this paper provides valuable insights in the field of time series prediction.  
 Keywords: Total electricity consumption; Transformer models; Forecasting framework; Time2vec embedding
 
 Patent:  
