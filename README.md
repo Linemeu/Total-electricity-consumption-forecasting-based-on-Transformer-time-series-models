@@ -1,4 +1,4 @@
-# Total-elsctricity-consumption-forecasting
+# Total-electricity-consumption-forecasting
 Total electricity consumption forecasting based on Transformer  time series models
 
 ## Requirements  
